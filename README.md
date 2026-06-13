@@ -29,7 +29,7 @@ npm install && npm run dev
 
 ## Live Demo
 
-[https://shubhamsahaniNitkkr.github.io/old-basic-projects/projects/react-calendar-app/](https://shubhamsahaniNitkkr.github.io/old-basic-projects/projects/react-calendar-app/)
+[https://shubhamsahaniNitkkr.github.io/react-calendar-app/](https://shubhamsahaniNitkkr.github.io/react-calendar-app/)
 
 
 ## Performance & UI
