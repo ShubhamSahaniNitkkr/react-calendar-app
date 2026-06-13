@@ -2,7 +2,8 @@
 
 > Event scheduling app using Syncfusion calendar with day, week, and month views.
 
-![Screenshot](./screenshot.png)
+<img width="2240" height="1172" alt="image" src="https://github.com/user-attachments/assets/e760c2f5-d50a-4d86-8fce-8d6ef9d9a793" />
+
 > Add `screenshot.png` in project root for preview.
 
 ## Purpose
