@@ -27,8 +27,6 @@ Event scheduling app using Syncfusion calendar with day, week, and month views.
 npm install && npm run dev
 ```
 
-> On Node 17+, if build fails: `export NODE_OPTIONS=--openssl-legacy-provider`
-
 ## Live Demo
 
 [https://shubhamsahaniNitkkr.github.io/old-basic-projects/projects/react-calendar-app/](https://shubhamsahaniNitkkr.github.io/old-basic-projects/projects/react-calendar-app/)
